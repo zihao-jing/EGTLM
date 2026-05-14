@@ -110,14 +110,10 @@ print(sims)
 ## Citation
 
 ```bibtex
-
-@misc{muennighoff2024generative,
-      title={Generative Representational Instruction Tuning}, 
-      author={Niklas Muennighoff and Hongjin Su and Liang Wang and Nan Yang and Furu Wei and Tao Yu and Amanpreet Singh and Douwe Kiela},
-      year={2024},
-      eprint={2402.09906},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@misc{2405.06932,
+Author = {Junqin Huang and Zhongjie Hu and Zihao Jing and Mengya Gao and Yichao Wu},
+Title = {Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training},
+Year = {2024},
+Eprint = {arXiv:2405.06932},
 }
-
 ```
