@@ -1,5 +1,9 @@
 # Embedding Generative Tuning Language Model
 
+[![Paper](https://img.shields.io/badge/SenseTime%20Tech%20Report-arXiv%3A2405.06932-b31b1b)](https://arxiv.org/abs/2405.06932)
+[![Model](https://img.shields.io/badge/🤗%20Model-zihaojing%2FEGTLM--Mistral7b--instruct-yellow)](https://huggingface.co/zihaojing/EGTLM-Mistral7b-instruct)
+[![Model](https://img.shields.io/badge/🤗%20Model-zihaojing%2FEGTLM--Qwen1.5--1.8B--instruct-yellow)](https://huggingface.co/zihaojing/EGTLM-Qwen1.5-1.8B-instruct)
+
 Embedding Generative Tuning Language Model (EGTLM), leveraging the robust semantic processing capabilities of large language models. To enhance the model's multitasking abilities, a two-stage training approach involving unsupervised pre-training followed by supervised instruction tuning is proposed. The resultant EGTLM model excels in both embedding and text generation. An RAG knowledge system solution based on the EGTLM model is also designed. Remarkably, the EGTLM model achieved a score of 68 in the Chinese evaluation rankings of the Massive Text Embedding Benchmark, securing a spot in the top ten. 
 
 ## Main Highlights
